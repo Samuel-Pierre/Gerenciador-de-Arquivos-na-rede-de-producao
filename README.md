@@ -1,0 +1,2 @@
+# Gerenciador-de-Arquivos-na-rede-de-producao
+Este programa foi criado em Python no intuito de sarar um problema recorrente na rede de produção da empresa, este programa ira analisar arquivos da rede e gerara logs, até o momento esta na fase de teste, mas o intuito é acrescentar o Big Data e tratar todos os dados recebidos na area de desenvolvimento e gerar informações uteis para o sistema administrativo da empresa.
